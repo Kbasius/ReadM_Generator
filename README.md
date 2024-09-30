@@ -65,6 +65,11 @@ Type your answers!
 <br>
 <br>
 
+### A link to a video demonstration.
+<br>
+https://app.screencastify.com/v3/watch/1qeXQuEGPGDCJ0djuUYW
+<br>
+<br>
 ## Credits
 <br>
 Week 7 mini project.
